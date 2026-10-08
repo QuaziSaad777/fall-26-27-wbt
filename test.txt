@@ -1,0 +1,30 @@
+index.html:
+     Full Name
+     Job Title
+     Short Address
+
+     Profile Picrut:
+     Bio:
+
+     Social Links:
+     LinkedIN
+     Github
+
+     Copyright
+
+Education.html:
+    University Icon
+    University Name
+    Degree Name
+    Relevant Courses
+
+    HSC College Icon
+    HSC College Name
+    Stream
+    Relevant Subjects
+
+    SSC School Icon
+    SSC School Name
+    Stream
+    Relevant Subjects
+
